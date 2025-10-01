@@ -1,4 +1,4 @@
-# Hi, I'm Chimela! 👋
+# Hello, I'm Chimela! 👋
 
 **Developer | CE Major**
 
