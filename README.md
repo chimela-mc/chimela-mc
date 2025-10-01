@@ -1,6 +1,6 @@
 # Hi, I'm Chimela! 👋
 
-**Developer | Student**
+**Developer | CE Major**
 
 ---
 
