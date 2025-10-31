@@ -6,7 +6,7 @@
 
 ### 🚀 about me
 
-i love building software products that solve real problems —  
+i love building software products that solve real problems
 i'm a passionate developer and dedicated student, always eager to explore and understand the technology powering our world. i love learning new things and diving into the “how” and “why” behind the scenes.  
 i'm a ce major exploring:
 
