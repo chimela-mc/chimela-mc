@@ -1,6 +1,6 @@
 # hello, i'm chimela chimela 👋
 
-**product | software developer | ce major**
+**software developer | product | ce major**
 
 ---
 
