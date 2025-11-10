@@ -1,6 +1,6 @@
 # hello, i'm chimela chimela 👋
 
-**software developer | product | ce major**
+**product | software developer | ce major**
 
 ---
 
@@ -18,7 +18,7 @@ i'm a ce major exploring:
 ### 🛠️ tech stack
 
 - **languages:** kotlin, javascript, python
-- **frameworks:** jetpack compose, next.js, django,   
+- **frameworks:** jetpack compose, next.js, django
 - always exploring new tools and ideas
 
 ---
